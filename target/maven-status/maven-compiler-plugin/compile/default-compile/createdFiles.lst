@@ -1,0 +1,5 @@
+com\ecartAsync\processor\AsyncUpdateProcessor.class
+com\ecartAsync\config\RestConfig.class
+com\ecartAsync\config\MongoConfig.class
+com\ecartAsync\route\AsyncUpdateConsumerRoute.class
+com\ecartAsync\ecartAsync\App.class
